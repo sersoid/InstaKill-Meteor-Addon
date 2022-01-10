@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "instakillma",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for the Meteor addons.",
+  "name": "InstaKill Meteor Addon",
+  "description": "InstaKill mod-addon created using the Meteor Client Addon API ",
   "authors": [
-    "seasnail8169"
+    "Sersoid"
   ],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "repo": "https://github.com/Sersoid/InstaKill-Meteor-Addon"
   },
-  "icon": "assets/template/icon.png",
+  "icon": "assets/instakillma/icon.png",
   "environment": "client",
   "entrypoints": {
     "meteor": [
-      "dummy.addon.template.TemplateAddon"
+      "me.sersoid.instakillma.InstaKillMA"
     ]
   },
   "mixins": [
-    "template.mixins.json"
+    "instakillma.mixins.json"
   ],
   "custom": {
     "meteor-client:color": "225,25,25"
