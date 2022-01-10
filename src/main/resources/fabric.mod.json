@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "instakillma",
   "version": "${version}",
-  "name": "InstaKill Meteor Addon",
+  "name": "InstaKill",
   "description": "InstaKill mod-addon created using the Meteor Client Addon API ",
   "authors": [
     "Sersoid"
