@@ -8,7 +8,8 @@
     "Sersoid"
   ],
   "contact": {
-    "repo": "https://github.com/Sersoid/InstaKill-Meteor-Addon"
+    "homepage": "https://github.com/Sersoid/InstaKill-Meteor-Addon",
+    "issues": "https://github.com/Sersoid/InstaKill-Meteor-Addon/issues"
   },
   "icon": "assets/instakillma/icon.png",
   "environment": "client",
